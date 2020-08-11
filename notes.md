@@ -26,4 +26,4 @@ Use leading underscores to set a property as private to a dart file(library)
 - Ex. To make MyAppState private, make it _MyAppState
 
 ## Maps
-These work the same way as dictionaries on python
+These work the same way as dictionaries in python

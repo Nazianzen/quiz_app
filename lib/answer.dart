@@ -4,7 +4,7 @@ class Answer extends StatelessWidget {
   final String buttonText;
   final Function action;
 
-  Answer({this.buttonText, this.action});
+  Answer({@required this.buttonText, @required this.action});
 
   @override
   Widget build(BuildContext context) {
